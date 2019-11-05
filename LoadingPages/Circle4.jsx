@@ -4,8 +4,8 @@ import Lottie from "react-lottie";
 import ReactLoading from "react-loading";
 import "bootstrap/dist/css/bootstrap.css";
 import React, { Component } from 'react'
-import * as doneData from "../jsonF/196-material-wave-loading.json.js"
-import * as legoData from "../jsonF/196-material-wave-loading.json.js"
+import * as doneData from "../jsonF/196-material-wave-loading.json"
+import * as legoData from "../jsonF/196-material-wave-loading.json"
 
 
 const defaultOptions = {
