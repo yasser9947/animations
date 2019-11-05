@@ -4,8 +4,8 @@ import Lottie from "react-lottie";
 import ReactLoading from "react-loading";
 import "bootstrap/dist/css/bootstrap.css";
 import React, { Component } from 'react'
-import * as doneData from "../jsonF/1370-confetti.json.js"
-import * as legoData from "../jsonF/40-loading.json.js"
+import * as doneData from "../jsonF/1370-confetti.json"
+import * as legoData from "../jsonF/40-loading.json"
 
 
 const defaultOptions = {
