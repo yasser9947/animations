@@ -10,9 +10,10 @@ then in termnal do this :
 cd src
 ```
 
-```
-git clone https://github.com/yasser9947/animations-yasser.git
-```
+download the files from hare , do not clone it ! 
+
+put your download files in src 
+
 
 in you app : 
 
