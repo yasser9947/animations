@@ -22,6 +22,6 @@ import Circle4 from './animations-yasser/LoadingPages/Circle4'
 ```
 and use the componed like this 
 ```
-     <Circle4  loading ={false} text {"your text"}/>
+     <Circle4  loading ={false} text= {"your text"}/>
 
 ```
