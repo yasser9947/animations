@@ -13,7 +13,7 @@ npm i react-animation-h3ro-yasir
 in you app  or your componend : 
 
 ```
-import Circle4 from './animations-yasser/LoadingPages/Circle4'
+import Circle4 from 'react-animation-h3ro-yasir'
 ```
 and use the componed like this 
 ```
