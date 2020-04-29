@@ -7,15 +7,10 @@ npm i react-loading react-lottie react-fade-in bootstrap
 
 then in termnal do this : 
 ```
-cd src
+npm i react-animation-h3ro-yasir
 ```
 
-download the files from hare , do not clone it ! 
-
-put your download files in src 
-
-
-in you app : 
+in you app  or your componend : 
 
 ```
 import Circle4 from './animations-yasser/LoadingPages/Circle4'
